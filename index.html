@@ -10,11 +10,16 @@
             text-align: center;
             margin-top: 50px;
         }
+        table {
+            margin: 0 auto; /* Centre le tableau */
+            border-collapse: collapse; /* Supprime les espaces entre les cellules */
+        }
+        td {
+            padding: 10px; /* Ajoute un peu d'espace autour des images */
+        }
         img {
-            max-width: 100%; /* S'adapte à la largeur de l'écran */
-            height: auto;    /* Garde le ratio de l'image */
-            display: block;  /* Permet de centrer l'image */
-            margin: 0 auto;  /* Centre l'image */
+            max-width: 100%; /* Rend l'image responsive */
+            height: auto; /* Garde les proportions de l'image */
         }
     </style>
 </head>
@@ -22,6 +27,16 @@
     <h1>Hello World</h1>
     <p>Welcome on Starsk-Reboot Web site.</p>
     <p>It's alive again 02/11/2024</p>
-    <img src="Images/CPC-464-BackgroundColor-Preview.jpg" alt="Image de prévisualisation CPC-464">
+
+    <table>
+        <tr>
+            <td>
+                <img src="Images/CPC-464-BackgroundColor-Preview.jpg" alt="CPC 464">
+            </td>
+            <td>
+                <img src="Images/CPC6128-Azerty-Preview.jpg" alt="CPC 6128">
+            </td>
+        </tr>
+    </table>
 </body>
 </html>
