@@ -11,15 +11,19 @@
             margin-top: 50px;
         }
         table {
-            margin: 0 auto; /* Centre le tableau */
-            border-collapse: collapse; /* Supprime les espaces entre les cellules */
+            margin: 0 auto;
+            border-collapse: collapse;
         }
         td {
-            padding: 10px; /* Ajoute un peu d'espace autour des images */
+            padding: 10px;
+            vertical-align: top; /* Aligne le contenu en haut des cellules */
         }
         img {
-            max-width: 100%; /* Rend l'image responsive */
-            height: auto; /* Garde les proportions de l'image */
+            max-width: 100%; /* Réduit l'image pour qu'elle soit responsive */
+            height: auto;
+        }
+        .text-cell {
+            padding-top: 10px;
         }
     </style>
 </head>
@@ -30,11 +34,27 @@
 
     <table>
         <tr>
+            <!-- Première colonne avec l'image CPC 464 -->
             <td>
-                <img src="Images/CPC-464-BackgroundColor-Preview.jpg" alt="CPC 464">
+                <a href="cpc464.html">
+                    <img src="Images/CPC-464-BackgroundColor-Preview.jpg" alt="CPC 464">
+                </a>
             </td>
+            <!-- Deuxième colonne avec l'image CPC 6128 -->
             <td>
                 <img src="Images/CPC6128-Azerty-Preview.jpg" alt="CPC 6128">
+            </td>
+        </tr>
+        <tr>
+            <!-- Première cellule sous l'image CPC 464 -->
+            <td class="text-cell">
+                <a href="cpc464.html">CPC 464</a>
+                <p>Hommage au CPC 464.</p>
+            </td>
+            <!-- Deuxième cellule sous l'image CPC 6128 -->
+            <td class="text-cell">
+                <p>CPC 6128</p>
+                <p>Hommage au CPC 6128.</p>
             </td>
         </tr>
     </table>
