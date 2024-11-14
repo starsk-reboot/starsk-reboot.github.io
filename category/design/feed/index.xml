@@ -12,37 +12,69 @@
 	<atom:link href="/category/design/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 12 Nov 2024 17:09:33 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Nov 2024 18:55:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=6.7</generator>
 	<item>
 		<title>Amstrad CPC 464</title>
 		<link>/amstrad-cpc-464/</link>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 12 Nov 2024 16:41:35 +0000</pubDate>
+		<dc:creator><![CDATA[Starsk]]></dc:creator>
+		<pubDate>Tue, 12 Nov 2024 18:20:49 +0000</pubDate>
 				<category><![CDATA[Design]]></category>
 		<guid isPermaLink="false">/?p=23</guid>
 
-					<description><![CDATA[A tribute to the CPC 464. 4K Background Iphone]]></description>
+					<description><![CDATA[A tribute tu the CPC 464.]]></description>
 										<content:encoded><![CDATA[
-<p>A tribute to the CPC 464.</p>
+<p class="has-text-align-left">Je dois ma carrière dans la création numérique à l&#8217;Amstrad CPC 464 que mon grand-père m&#8217;a offert en 1987. Je me souviens encore de ce jour de Noel ou il sortit les cartons du CPC du coffre de sa 2CV. Je n&#8217;en revenais pas. J&#8217;avais 11/ 12 ans, tout au plus et avec cet ordinateur entre les mains, j&#8217;entrais dans le monde de mes films favoris de l&#8217;époque : Trone et WarGame. Welcome to the futur.</p>
+
+
+
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Mes premiers jeux sur cassettes furent Green Beret et la compilation They Sold a Million avec l&#8217;étrange Jet Set Willy et Beach Head. Mon 464 fut bientôt upgradé par un lecteur de disquette &#8211; de là vient aussi sans doute ma passion pour l&#8217;upgrade de machines &#8211; qui permit d&#8217;exploiter pleinement le potentiel de cette machine. Avec lui un monde s&#8217;ouvrait à travers la copie et l&#8217;échange de disquettes, de premiers essais graphiques, et une timide initiation à la programmation.</p>
+
+
+
+<p>J&#8217;aimais particulièrement écrire des chats bots rudimentaires en basic, ou chaque question / réponse devait être programmées à l&#8217;avance&#8230; des années-lumière avant l&#8217;arrivée de ChatGPT.</p>
+
+
+
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Mais revenons au présent. Ce graphique, a été dessiné à la main dans Affinity Designer, partant d&#8217;une photo de mon CPC 464 original, qui 40 ans après, est toujours fonctionnel. Du solide.</p>
+
+
+
+<p>Deux design pour le moment, que je revisiterais certainement dans un futur proche.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-text-align-center">Download</p>
 
 
 
 <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<p>4K Background</p>
+<p class="has-text-align-center has-vivid-cyan-blue-color has-text-color has-link-color wp-elements-5d0c611f3b4656fa2e18f4964c598f74"><a href="https://starsk-reboot.github.io/wp-content/gfx-downloads/CPC464-ColorBackground-4K.png" target="_blank" rel="noreferrer noopener">4K Background</a></p>
 </div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<p>Iphone</p>
+<p class="has-text-align-center has-vivid-cyan-blue-color has-text-color has-link-color wp-elements-28bf254e82d9d7929cf9145a3257710f"><a href="https://starsk-reboot.github.io/wp-content/gfx-downloads/CPC464-ColorBackground-Iphone.png" target="_blank" rel="noreferrer noopener">Iphone</a></p>
 </div>
 </div>
 
@@ -58,14 +90,22 @@
 		<title>Amstrad CPC 6128</title>
 		<link>/amstrad-cpc-6128/</link>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 12 Nov 2024 16:28:13 +0000</pubDate>
+		<dc:creator><![CDATA[Starsk]]></dc:creator>
+		<pubDate>Tue, 12 Nov 2024 18:05:47 +0000</pubDate>
 				<category><![CDATA[Design]]></category>
 		<guid isPermaLink="false">/?p=20</guid>
 
-					<description><![CDATA[A tribute to the CPC 6128. 4K Background Iphone]]></description>
+					<description><![CDATA[A tribute to the CPC 6128. Le CPC 6128, c'est l'ordinateur que je voyais chez mes amis, mais que je n'ai jamais eu, un rêve inaccessible pour moi à l'époque. Ce n’est qu’au début des années 2000, au détour d’une rue à Marseille, que le destin me permet enfin de mettre la main sur un [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>A tribute to the CPC 6128.</p>
+<p class="has-text-align-left">A tribute to the CPC 6128. <br></p>
+
+
+
+<pre class="wp-block-preformatted has-system-font-font-family">Le CPC 6128, c'est l'ordinateur que je voyais chez mes amis, mais que je n'ai jamais eu, un rêve inaccessible pour moi à l'époque. Ce n’est qu’au début des années 2000, au détour d’une rue à Marseille, que le destin me permet enfin de mettre la main sur un exemplaire abandonné.&nbsp;<br><br>Récemment, &nbsp;j’ai exhumé ce CPC rescapé de la boîte&nbsp;où il dormait depuis des années. Je l’ai démonté, nettoyé pièce par pièce, puis branché sur un moniteur 1080p. Si tout semble OK et qu'il m'affiche son sublime écran bleu, Lomotive Basic 1.1, son lecteur de disquette, hélas, refuse toujours de fonctionner. Je n'ai pourtant pas dit mon dernier mot. L’idée d’un Gotek externe pour relancer cette vieille âme est dans mes projets…</pre>
+
+
+
+<p></p>
 
 
 

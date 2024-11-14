@@ -11,11 +11,11 @@
 	<atom:link href="/amstrad-cpc-6128/feed/" rel="self" type="application/rss+xml" />
 	<link>/amstrad-cpc-6128/</link>
 	<description></description>
-	<lastBuildDate>Tue, 12 Nov 2024 17:09:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Nov 2024 20:18:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=6.7</generator>
 </channel>
 </rss>

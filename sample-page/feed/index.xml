@@ -11,11 +11,11 @@
 	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 12 Nov 2024 16:16:19 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Nov 2024 19:02:02 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=6.7</generator>
 </channel>
 </rss>
