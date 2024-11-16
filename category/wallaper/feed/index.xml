@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Starsk-Reboot</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>Wallaper &#8211; Starsk-Reboot</title>
+	<atom:link href="/category/wallaper/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sat, 16 Nov 2024 22:22:55 +0000</lastBuildDate>
@@ -202,59 +202,6 @@
 
 
 <figure class="wp-block-image aligncenter size-full" style="margin-top:0;margin-bottom:0"><a href="https://ko-fi.com/J3J1SZXSF" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="300" height="47" src="/wp-content/uploads/2024/11/Ko-fi-button.png" alt="Support me on Ko-fi" class="wp-image-123" style="object-fit:cover"/></a></figure>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Hello World</title>
-		<link>/hello-world/</link>
-		
-		<dc:creator><![CDATA[Starsk]]></dc:creator>
-		<pubDate>Tue, 12 Nov 2024 18:04:03 +0000</pubDate>
-				<category><![CDATA[Texte]]></category>
-		<guid isPermaLink="false">/?p=43</guid>
-
-					<description><![CDATA[Graphiste, illustrateur et vj dans les années 90/2000, j’ai récemment ressenti le besoin de revenir aux sources de ma carrière dans la création numérique : l’image graphique et les ordinateurs qui m’ont accompagné tout au long de mon parcours : l’Amstrad CPC de mon enfance, les Amigas des années 90, les Macs et Pcs des [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p class="has-medium-font-size">Graphiste, illustrateur et vj dans les années 90/2000, j’ai récemment ressenti le besoin de revenir aux sources de ma carrière dans la création numérique : l’image graphique et les ordinateurs qui m’ont accompagné tout au long de mon parcours : l’Amstrad CPC de mon enfance, les Amigas des années 90, les Macs et Pcs des années 2000. Rien n’aurait été possible sans ces outils extraordinaires, qui ont à la fois permis et nourri ma créativité.</p>
-
-
-
-<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>Dans les années 90 et 2000, mon travail graphique et vidéo était au cœur de la scène techno underground. J’y ai signé mes créations sous divers pseudonymes – Fucking Gfx, Blackee, Starsk – pochettes de disques, macarons, teeshirts, animations visuels, que j&#8217;affichais sur mon site personnel, starsk.free.fr, vestige d’une époque révolue.</p>
-
-
-
-<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p></p>
-
-
-
-<p>Starsk-Reboot est un espace de partage inspiré par le rétro computing et les influences de cette époque. Je publierai ici mes textes et créations graphiques au gré de mon inspiration.</p>
-
-
-
-<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>It’s alive again! Welcome to the <strong>Starsk-Reboot</strong> website.</p>
-
-
-
-<p></p>
 ]]></content:encoded>
 					
 		

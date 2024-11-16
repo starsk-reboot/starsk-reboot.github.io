@@ -12,7 +12,7 @@
 	<atom:link href="/category/design/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sat, 16 Nov 2024 21:41:38 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Nov 2024 22:22:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -26,6 +26,7 @@
 		<dc:creator><![CDATA[Starsk]]></dc:creator>
 		<pubDate>Tue, 12 Nov 2024 18:20:49 +0000</pubDate>
 				<category><![CDATA[Design]]></category>
+		<category><![CDATA[Wallaper]]></category>
 		<guid isPermaLink="false">/?p=23</guid>
 
 					<description><![CDATA[Je dois ma carrière dans la création numérique à l&#8217;Amstrad CPC 464 que mon grand-père m&#8217;a offert en 1987. Je me souviens encore de ce jour de Noel ou il sortit les cartons du CPC du coffre de sa 2CV. Je n&#8217;en revenais pas. J&#8217;avais 11/ 12 ans, tout au plus et avec cet ordinateur [&#8230;]]]></description>
@@ -62,25 +63,23 @@
 
 
 
-<p class="has-text-align-center">Download</p>
+<p class="has-text-align-center">Download Wallpapers</p>
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<p class="has-text-align-center has-vivid-cyan-blue-color has-text-color has-link-color wp-elements-7bf2d2ead024fa604b36ed016ad57214"><a href="https://starsk-reboot.github.io/gfx-downloads/CPC464-ColorBackground-4K.png" target="_blank" rel="noreferrer noopener">4K Background</a></p>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<p class="has-text-align-center has-vivid-cyan-blue-color has-text-color has-link-color wp-elements-361ecce11e410583907ac8c5a2cac732"><a href="https://starsk-reboot.github.io/gfx-downloads/CPC464-ColorBackground-Iphone.png" target="_blank" rel="noreferrer noopener">Iphone</a></p>
-</div>
-</div>
+<p class="has-text-align-center has-vivid-cyan-blue-color has-text-color has-link-color has-small-font-size wp-elements-b644a83eea5d9cd2d921a9c285085c31"><a href="https://starsk-reboot.github.io/gfx-downloads/CPC464-ColorBackground-4K.png" target="_blank" rel="noreferrer noopener">4K Wallpaper</a> <strong style="color: black;">|</strong> <a href="https://starsk-reboot.github.io/gfx-downloads/CPC464-ColorBackground-Iphone.png" target="_blank" rel="noreferrer noopener">Iphone</a></p>
 
 
 
 <p></p>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image aligncenter size-full" style="margin-top:0;margin-bottom:0"><a href="https://ko-fi.com/J3J1SZXSF" target="_blank" rel=" noreferrer noopener"><img decoding="async" width="300" height="47" src="/wp-content/uploads/2024/11/Ko-fi-button.png" alt="Support me on Ko-fi" class="wp-image-123" style="object-fit:cover"/></a></figure>
 ]]></content:encoded>
 					
 		
@@ -93,6 +92,7 @@
 		<dc:creator><![CDATA[Starsk]]></dc:creator>
 		<pubDate>Tue, 12 Nov 2024 18:05:47 +0000</pubDate>
 				<category><![CDATA[Design]]></category>
+		<category><![CDATA[Wallaper]]></category>
 		<guid isPermaLink="false">/?p=20</guid>
 
 					<description><![CDATA[Le CPC 6128, c&#8217;est l&#8217;ordinateur que je voyais chez mes amis, mais que je n&#8217;ai jamais eu, un rêve inaccessible pour moi à l&#8217;époque. Ce n’est qu’au début des années 2000, au détour d’une rue à Marseille, que le destin me permet enfin de mettre la main sur un exemplaire abandonné.&#160; Récemment, &#160;j’ai exhumé ce [&#8230;]]]></description>
@@ -133,27 +133,11 @@
 
 
 
-<p class="has-text-align-center">Download</p>
+<p class="has-text-align-center">Download Wallpapers</p>
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<p class="has-text-align-right has-vivid-cyan-blue-color has-text-color has-link-color wp-elements-e2de285b4a92f28416202d616ee64ae8"><a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Graphic-4K-Qwerty-BlueStrom.png" data-type="link" data-id="https://starsk-reboot.github.io/wp-content/gfx-downloads/CPC6128-Graphic-4K-Qwerty-BlueStrom.png" target="_blank" rel="noreferrer noopener">Qwerty 4K Background</a></p>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<p class="has-text-align-center has-vivid-cyan-blue-color has-text-color has-link-color wp-elements-2f3146415694b8c1fb0dcd0d4e9f1e12"><a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Graphic-4K-Azerty-BlueStrom.png" data-type="link" data-id="https://starsk-reboot.github.io/wp-content/gfx-downloads/CPC6128-Graphic-4K-Azerty-BlueStrom.png" target="_blank" rel="noreferrer noopener">Azerty 4K Background</a></p>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<p class="has-text-align-left has-vivid-cyan-blue-color has-text-color has-link-color wp-elements-2d2fe87800769ae66ada2b8b1d56e812"><a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Graphic-iPhone-Azerty-Blue.png" data-type="link" data-id="https://starsk-reboot.github.io/wp-content/gfx-downloads/CPC6128-Graphic-iPhone-Azerty-Blue.png" target="_blank" rel="noreferrer noopener">iPhone</a></p>
-</div>
-</div>
+<p class="has-text-align-center has-vivid-cyan-blue-color has-text-color has-link-color has-small-font-size wp-elements-d3dafa6cdbe9234131c14eb9451e4a39"><a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Graphic-4K-Qwerty-BlueStrom.png" data-type="link" data-id="https://starsk-reboot.github.io/wp-content/gfx-downloads/CPC6128-Graphic-4K-Qwerty-BlueStrom.png" target="_blank" rel="noreferrer noopener">Qwerty 4K</a> <strong style="color: black;">|</strong> <a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Graphic-4K-Azerty-BlueStrom.png" data-type="link" data-id="https://starsk-reboot.github.io/wp-content/gfx-downloads/CPC6128-Graphic-4K-Azerty-BlueStrom.png" target="_blank" rel="noreferrer noopener">Azerty 4K</a> <strong style="color: black;">|</strong> <a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Graphic-iPhone-Azerty-Blue.png" data-type="link" data-id="https://starsk-reboot.github.io/wp-content/gfx-downloads/CPC6128-Graphic-iPhone-Azerty-Blue.png" target="_blank" rel="noreferrer noopener">iPhone</a></p>
 
 
 
@@ -161,7 +145,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="562" src="/wp-content/uploads/2024/11/tempImage1jTDkk.jpg" alt="" class="wp-image-155" srcset="/wp-content/uploads/2024/11/tempImage1jTDkk.jpg 1000w, /wp-content/uploads/2024/11/tempImage1jTDkk-300x169.jpg 300w, /wp-content/uploads/2024/11/tempImage1jTDkk-768x432.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1000" height="562" src="/wp-content/uploads/2024/11/tempImage1jTDkk.jpg" alt="" class="wp-image-155" srcset="/wp-content/uploads/2024/11/tempImage1jTDkk.jpg 1000w, /wp-content/uploads/2024/11/tempImage1jTDkk-300x169.jpg 300w, /wp-content/uploads/2024/11/tempImage1jTDkk-768x432.jpg 768w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></figure>
 
 
 
@@ -169,25 +153,13 @@
 
 
 
-<p class="has-text-align-center">Download</p>
+<p class="has-text-align-center">Download Wallpapers</p>
 
 
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<p class="has-text-align-right has-vivid-cyan-blue-color has-text-color has-link-color wp-elements-1b7242799aa9f12a87b45e1ba6e7d9d7"><a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Vector13-Original-Circle-Qwerty-BlueGray.png" data-type="link" data-id="CPC6128-Vector13-Original-Circle-Qwerty-BlueGray.png" target="_blank" rel="noreferrer noopener">Qwerty 4K Background</a></p>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<p class="has-text-align-center has-vivid-cyan-blue-color has-text-color has-link-color wp-elements-4b0c1bf8d0a8d92535f37538ed08be81"><a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Vector13-Original-Circle-Azerty-BlueGray.png" data-type="link" data-id="https://starsk-reboot.github.io/wp-content/gfx-downloads/CPC6128-Vector13-Original-Circle-Azerty-BlueGray.png" target="_blank" rel="noreferrer noopener">Azerty 4K Background</a></p>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<p class="has-text-align-left has-vivid-cyan-blue-color has-text-color has-link-color wp-elements-7dd7a51ed28b4cc430a251ba54c46748"><a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Original-Circle-iPhone-Qwerty-BlueGray.png" data-type="link" data-id="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Vector13-Original-Circle-Azerty-BlueGray.png" target="_blank" rel="noreferrer noopener">iPhone</a></p>
+<p class="has-text-align-center has-vivid-cyan-blue-color has-text-color has-link-color has-small-font-size wp-elements-71df7f91d204c2e43636b50f275245ba"><a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Vector13-Original-Circle-Qwerty-BlueGray.png" data-type="link" data-id="CPC6128-Vector13-Original-Circle-Qwerty-BlueGray.png" target="_blank" rel="noreferrer noopener">Qwerty 4K</a> <strong style="color: black;">|</strong> <a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Vector13-Original-Circle-Azerty-BlueGray.png" data-type="link" data-id="https://starsk-reboot.github.io/wp-content/gfx-downloads/CPC6128-Vector13-Original-Circle-Azerty-BlueGray.png" target="_blank" rel="noreferrer noopener">Azerty 4K</a> <strong style="color: black;">|</strong> <a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Original-Circle-iPhone-Qwerty-BlueGray.png" data-type="link" data-id="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Vector13-Original-Circle-Azerty-BlueGray.png" target="_blank" rel="noreferrer noopener">iPhone</a></p>
 </div>
 </div>
 
@@ -205,11 +177,11 @@
 
 
 
-<p class="has-text-align-center">Download</p>
+<p class="has-text-align-center">Download Wallpapers</p>
 
 
 
-<p class="has-text-align-center has-vivid-cyan-blue-color has-text-color has-link-color wp-elements-2b3519e3e2f8e5309e1ef6b72806d4a4">
+<p class="has-text-align-center has-vivid-cyan-blue-color has-text-color has-link-color has-small-font-size wp-elements-11d10277dea2b42946be2056bc0422d0">
   <a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Graphic-iPhone-Azerty-BlueStrom-Detail.png" target="_blank" rel="noreferrer noopener">iPhone Detail 1 Azerty</a>
   <strong style="color: black;">|</strong>
   <a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Original-Circle-iPhone-Azerty-BlueGray-Detail.png" target="_blank" rel="noreferrer noopener">iPhone Detail 2 Azerty</a>
@@ -222,6 +194,14 @@
 
 
 <p></p>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image aligncenter size-full" style="margin-top:0;margin-bottom:0"><a href="https://ko-fi.com/J3J1SZXSF" target="_blank" rel=" noreferrer noopener"><img loading="lazy" decoding="async" width="300" height="47" src="/wp-content/uploads/2024/11/Ko-fi-button.png" alt="Support me on Ko-fi" class="wp-image-123" style="object-fit:cover"/></a></figure>
 ]]></content:encoded>
 					
 		
