@@ -12,7 +12,7 @@
 	<atom:link href="/category/design/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sat, 16 Nov 2024 21:28:29 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Nov 2024 21:41:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -105,6 +105,10 @@
 
 
 
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
 <figure class="wp-block-image size-large wp-duotone-midnight"><img fetchpriority="high" decoding="async" width="1024" height="634" src="/wp-content/uploads/2024/11/tempImage09RUco-1024x634.jpg" alt="" class="wp-image-149" srcset="/wp-content/uploads/2024/11/tempImage09RUco-1024x634.jpg 1024w, /wp-content/uploads/2024/11/tempImage09RUco-300x186.jpg 300w, /wp-content/uploads/2024/11/tempImage09RUco-768x476.jpg 768w, /wp-content/uploads/2024/11/tempImage09RUco-1536x952.jpg 1536w, /wp-content/uploads/2024/11/tempImage09RUco.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
@@ -121,15 +125,7 @@
 
 
 
-<p></p>
-
-
-
 <figure class="wp-block-image size-full"><img decoding="async" width="1000" height="562" src="/wp-content/uploads/2024/11/tempImageFYE2Mq.jpg" alt="" class="wp-image-153" srcset="/wp-content/uploads/2024/11/tempImageFYE2Mq.jpg 1000w, /wp-content/uploads/2024/11/tempImageFYE2Mq-300x169.jpg 300w, /wp-content/uploads/2024/11/tempImageFYE2Mq-768x432.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
 
@@ -213,7 +209,15 @@
 
 
 
-<p class="has-text-align-center has-vivid-cyan-blue-color has-text-color has-link-color wp-elements-46991d508fb2b092b584c37a8d8f169e"><a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Graphic-iPhone-Azerty-BlueStrom-Detail.png" data-type="link" data-id="https://starsk-reboot.github.io/wp-content/gfx-downloads/CPC6128-Graphic-iPhone-Azerty-BlueStrom-Detail.png" target="_blank" rel="noreferrer noopener">iPhone Detail 1 Azerty</a> <strong>|</strong> <a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Original-Circle-iPhone-Azerty-BlueGray-Detail.png" target="_blank" rel="noreferrer noopener">iPhone Detail 2 Azerty</a> <strong>|</strong> <a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Graphic-iPhone-Qwerty-BlueStrom-Detail.png" target="_blank" rel="noreferrer noopener">iPhone Detail 2 Qwerty</a> <strong>|</strong> <a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Original-Circle-iPhone-Qwerty-BlueGray-Detail.png" data-type="link" data-id="https://starsk-reboot.github.io/wp-content/gfx-downloads/CPC6128-Original-Circle-iPhone-Qwerty-BlueGray-Detail.png" target="_blank" rel="noreferrer noopener">iPhone Detail 2 Qwerty</a></p>
+<p class="has-text-align-center has-vivid-cyan-blue-color has-text-color has-link-color wp-elements-2b3519e3e2f8e5309e1ef6b72806d4a4">
+  <a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Graphic-iPhone-Azerty-BlueStrom-Detail.png" target="_blank" rel="noreferrer noopener">iPhone Detail 1 Azerty</a>
+  <strong style="color: black;">|</strong>
+  <a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Original-Circle-iPhone-Azerty-BlueGray-Detail.png" target="_blank" rel="noreferrer noopener">iPhone Detail 2 Azerty</a>
+  <strong style="color: black;">|</strong>
+  <a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Graphic-iPhone-Qwerty-BlueStrom-Detail.png" target="_blank" rel="noreferrer noopener">iPhone Detail 2 Qwerty</a>
+  <strong style="color: black;">|</strong>
+  <a href="https://starsk-reboot.github.io/gfx-downloads/CPC6128-Original-Circle-iPhone-Qwerty-BlueGray-Detail.png" target="_blank" rel="noreferrer noopener">iPhone Detail 2 Qwerty</a>
+</p>
 
 
 
