@@ -12,13 +12,13 @@
 	<atom:link href="/category/texte/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 20 Nov 2024 20:48:56 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 22 Nov 2024 16:16:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Hello World</title>
 		<link>/hello-world/</link>
@@ -42,7 +42,7 @@
 
 
 
-<p>Dans les années 90 et 2000, mon travail graphique et vidéo était au cœur de la scène techno underground. J’y ai signé mes créations sous divers pseudonymes – Fucking Gfx, Blackee, Starsk – pochettes de disques, macarons, teeshirts, animations visuels, que j&#8217;affichais sur mon site perso, <a href="http://starsk.free.fr/" data-type="link" data-id="http://starsk.free.fr/" target="_blank" rel="noreferrer noopener"><mark style="background-color:rgba(0, 0, 0, 0);color:#00aded" class="has-inline-color">starsk.free.fr</mark></a>, vestige d’une époque révolue.</p>
+<p>Dans les années 90 et 2000, mon travail graphique et vidéo était au cœur de la <a href="https://www.olivierblaecke.tv/underground-tekn/" data-type="link" data-id="https://www.olivierblaecke.tv/underground-tekn/" target="_blank" rel="noreferrer noopener">scène techno underground</a>. J’y ai signé <a href="https://www.olivierblaecke.tv/undergournd-techno-records/" data-type="link" data-id="https://www.olivierblaecke.tv/undergournd-techno-records/" target="_blank" rel="noreferrer noopener">mes créations</a> sous divers pseudonymes – Fucking Gfx, Blackee, Starsk – pochettes de disques, macarons, teeshirts, animations visuels, que j&#8217;affichais sur mon site perso, <a href="http://starsk.free.fr/" data-type="link" data-id="http://starsk.free.fr/" target="_blank" rel="noreferrer noopener"><mark style="background-color:rgba(0, 0, 0, 0);color:#00aded" class="has-inline-color">starsk.free.fr</mark></a>, vestige d’une époque révolue.</p>
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-<p>Starsk-Reboot est un espace de partage inspiré par le rétro computing et les influences de cette époque. Je publierai ici mes textes et créations graphiques au gré de mon inspiration.</p>
+<p><strong>Starsk-Reboot</strong> est un espace de partage inspiré par le rétro computing et les influences de cette époque. Je publierai ici mes textes et créations graphiques au gré de mon inspiration.</p>
 
 
 
