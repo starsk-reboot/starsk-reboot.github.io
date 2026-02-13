@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- Sitemap is generated on 2026-02-12 22:53:13 GMT -->
+<!-- Sitemap is generated on 2026-02-13 07:51:26 GMT -->
 	<url>
 		<loc>/</loc>
 		<lastmod>2026-02-07T18:42:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/sample-page/</loc>
-		<lastmod>2025-03-07T18:18:10+00:00</lastmod>
+		<loc>/about/</loc>
+		<lastmod>2026-02-12T22:48:40+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/independance-numerique/</loc>
